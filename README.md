@@ -362,7 +362,7 @@ directory before doing this, so that any corrupted packages you may have
 downloaded will be re-installed.
 
 `error: Package 'package-build-' is unavailable` may occur due to heavy network
-taffic. You can fix it by setting the `dotspacemacs-elpa-timeout` variable to
+traffic. You can fix it by setting the `dotspacemacs-elpa-timeout` variable to
 `70` in your dotfile.
 
 `Warning (bytecomp)` and other compilation warnings are perfectly normal. If
